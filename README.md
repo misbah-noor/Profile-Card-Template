@@ -4,7 +4,7 @@ Hey there! 👋 I'm Misbah Noor, a passionate frontend developer with a keen int
 
 ## About Me
 
-I have a strong background in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new technologies. I like turning design ideas into reality and crafting user-friendly interfaces.
+I have a strong background in HTML, and CSS, and I'm always eager to learn and explore new technologies. I like turning design ideas into reality and crafting user-friendly interfaces.
 
 ## Connect with Me
 
