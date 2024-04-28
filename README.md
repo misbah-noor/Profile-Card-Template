@@ -11,5 +11,5 @@ I have a strong background in HTML, CSS, and JavaScript, and I'm always eager to
 - **LinkedIn:** [Misbah Noor](https://www.linkedin.com/in/misbah-noor-979a3128a/)
 - **Instagram:** [misbah-noor947](https://www.instagram.com/misbah-noor947)
 
-Feel free to reach out to me for collaborations, projects, or just to say hi! 😊
+Feel free to reach out to me for collaborations, projects, or just to say hi! 
 
