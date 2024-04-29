@@ -14,7 +14,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #dddada;   
+    background-color: #171616fe;   
 }
 
 .profile-card{
@@ -26,9 +26,8 @@ body{
     background-color: #fff;
     border-radius: 24px;
     padding: 25px;
-    box-shadow: 1px 5px 10px  rgba(0, 0, 0, 0.1);
+    box-shadow: rgba(142, 177, 251, 0.741) 0px 10px 60px -20px, rgba(122, 165, 234, 0.718) 0px 10px 20px -30px, rgba(127, 185, 242, 0.7) 0px -2px 25px 2px; 
     position: relative;
-    
 }
 
 .profile-card::before{
@@ -40,13 +39,6 @@ body{
     height: 34%;
     width: 100%;
     background-color: #6420AA;
-}
-
-.profile-card:hover{
-    transform: scale(1.2);
-    transition: all .6s ease;
-    box-shadow: rgba(142, 177, 251, 0.741) 0px 10px 60px -20px, rgba(122, 165, 234, 0.718) 0px 10px 20px -30px, rgba(127, 185, 242, 0.7) 0px -2px 25px 2px; 
-
 }
 
 .image{
@@ -136,26 +128,6 @@ body{
     color: black;
     background-color: transparent !important;
     border: 1px solid black;
-}
-
-/*keyframes*/
-
-@keyframes moveCard {
-    0% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(4px);
-    }
-    100% {
-        transform: translateY(0);
-    }
-}
-
-/*Animation to the profile card */
-
-.profile-card:hover {
-    animation: moveCard 2s ease infinite; 
 }
 
 
